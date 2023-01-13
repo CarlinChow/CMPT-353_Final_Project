@@ -1,0 +1,2055 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="49.264227770135193" minlon="-123.179909168855332" maxlat="49.265157657616889" maxlon="-123.177897753996106"/></metadata>              
+<wpt lat="49.265058307036817" lon="-123.179879195491168">
+  <time>2022-12-07T13:25:54.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265058307036817</ogr:latitude>
+    <ogr:longitude>-123.179879195491168</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265058307036817" lon="-123.179879195491168">
+  <time>2022-12-07T13:25:55.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265058307036817</ogr:latitude>
+    <ogr:longitude>-123.179879195491168</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265058307036817" lon="-123.179879195491168">
+  <time>2022-12-07T13:25:56.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265058307036817</ogr:latitude>
+    <ogr:longitude>-123.179879195491168</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265051350682782" lon="-123.179899787724167">
+  <time>2022-12-07T13:25:57.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265051350682782</ogr:latitude>
+    <ogr:longitude>-123.179899787724167</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265067443855266" lon="-123.179909168855332">
+  <time>2022-12-07T13:25:58.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265067443855266</ogr:latitude>
+    <ogr:longitude>-123.179909168855332</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26507808857955" lon="-123.179908014074243">
+  <time>2022-12-07T13:25:59.149Z</time>
+  <extensions>
+    <ogr:latitude>49.26507808857955</ogr:latitude>
+    <ogr:longitude>-123.179908014074243</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265094267473245" lon="-123.179895567018036">
+  <time>2022-12-07T13:26:00.147Z</time>
+  <extensions>
+    <ogr:latitude>49.265094267473245</ogr:latitude>
+    <ogr:longitude>-123.179895567018036</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265111590890989" lon="-123.179828046240459">
+  <time>2022-12-07T13:26:01.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265111590890989</ogr:latitude>
+    <ogr:longitude>-123.179828046240459</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265111710026709" lon="-123.179786231348984">
+  <time>2022-12-07T13:26:02.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265111710026709</ogr:latitude>
+    <ogr:longitude>-123.179786231348984</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265129884363731" lon="-123.179704885912415">
+  <time>2022-12-07T13:26:03.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265129884363731</ogr:latitude>
+    <ogr:longitude>-123.179704885912415</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265122983418742" lon="-123.179656291182155">
+  <time>2022-12-07T13:26:04.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265122983418742</ogr:latitude>
+    <ogr:longitude>-123.179656291182155</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26512455894558" lon="-123.179626538194341">
+  <time>2022-12-07T13:26:05.149Z</time>
+  <extensions>
+    <ogr:latitude>49.26512455894558</ogr:latitude>
+    <ogr:longitude>-123.179626538194341</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265133929200829" lon="-123.179593665520187">
+  <time>2022-12-07T13:26:06.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265133929200829</ogr:latitude>
+    <ogr:longitude>-123.179593665520187</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265123628357301" lon="-123.17956600488003">
+  <time>2022-12-07T13:26:07.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265123628357301</ogr:latitude>
+    <ogr:longitude>-123.17956600488003</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265134047007585" lon="-123.17955769360114">
+  <time>2022-12-07T13:26:08.147Z</time>
+  <extensions>
+    <ogr:latitude>49.265134047007585</ogr:latitude>
+    <ogr:longitude>-123.17955769360114</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265141255167457" lon="-123.179534164027118">
+  <time>2022-12-07T13:26:09.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265141255167457</ogr:latitude>
+    <ogr:longitude>-123.179534164027118</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265136065943651" lon="-123.179506095091924">
+  <time>2022-12-07T13:26:10.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265136065943651</ogr:latitude>
+    <ogr:longitude>-123.179506095091924</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265137245124734" lon="-123.179479338360863">
+  <time>2022-12-07T13:26:11.146Z</time>
+  <extensions>
+    <ogr:latitude>49.265137245124734</ogr:latitude>
+    <ogr:longitude>-123.179479338360863</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265134648859963" lon="-123.179451446804975">
+  <time>2022-12-07T13:26:12.147Z</time>
+  <extensions>
+    <ogr:latitude>49.265134648859963</ogr:latitude>
+    <ogr:longitude>-123.179451446804975</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265123801033639" lon="-123.179431490268399">
+  <time>2022-12-07T13:26:13.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265123801033639</ogr:latitude>
+    <ogr:longitude>-123.179431490268399</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265133100793228" lon="-123.179408254022405">
+  <time>2022-12-07T13:26:14.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265133100793228</ogr:latitude>
+    <ogr:longitude>-123.179408254022405</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265133847182177" lon="-123.179393786736213">
+  <time>2022-12-07T13:26:15.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265133847182177</ogr:latitude>
+    <ogr:longitude>-123.179393786736213</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265132910409214" lon="-123.179365111710453">
+  <time>2022-12-07T13:26:16.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265132910409214</ogr:latitude>
+    <ogr:longitude>-123.179365111710453</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265130883312409" lon="-123.179342972209355">
+  <time>2022-12-07T13:26:17.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265130883312409</ogr:latitude>
+    <ogr:longitude>-123.179342972209355</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265128046321109" lon="-123.179328286870287">
+  <time>2022-12-07T13:26:18.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265128046321109</ogr:latitude>
+    <ogr:longitude>-123.179328286870287</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265131702250926" lon="-123.179312384930782">
+  <time>2022-12-07T13:26:19.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265131702250926</ogr:latitude>
+    <ogr:longitude>-123.179312384930782</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265130226363134" lon="-123.179291537071634">
+  <time>2022-12-07T13:26:20.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265130226363134</ogr:latitude>
+    <ogr:longitude>-123.179291537071634</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26512732178243" lon="-123.179265418514191">
+  <time>2022-12-07T13:26:21.151Z</time>
+  <extensions>
+    <ogr:latitude>49.26512732178243</ogr:latitude>
+    <ogr:longitude>-123.179265418514191</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26512396666763" lon="-123.17924015604612">
+  <time>2022-12-07T13:26:22.149Z</time>
+  <extensions>
+    <ogr:latitude>49.26512396666763</ogr:latitude>
+    <ogr:longitude>-123.17924015604612</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265121117011596" lon="-123.179217430508331">
+  <time>2022-12-07T13:26:23.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265121117011596</ogr:latitude>
+    <ogr:longitude>-123.179217430508331</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265118634719947" lon="-123.179193974309527">
+  <time>2022-12-07T13:26:24.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265118634719947</ogr:latitude>
+    <ogr:longitude>-123.179193974309527</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265117730041084" lon="-123.179168525037412">
+  <time>2022-12-07T13:26:25.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265117730041084</ogr:latitude>
+    <ogr:longitude>-123.179168525037412</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265111301397788" lon="-123.179145662199787">
+  <time>2022-12-07T13:26:26.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265111301397788</ogr:latitude>
+    <ogr:longitude>-123.179145662199787</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265115643811932" lon="-123.179119454831181">
+  <time>2022-12-07T13:26:27.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265115643811932</ogr:latitude>
+    <ogr:longitude>-123.179119454831181</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265115006052454" lon="-123.179093284531533">
+  <time>2022-12-07T13:26:28.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265115006052454</ogr:latitude>
+    <ogr:longitude>-123.179093284531533</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26511281303469" lon="-123.179071166607642">
+  <time>2022-12-07T13:26:29.151Z</time>
+  <extensions>
+    <ogr:latitude>49.26511281303469</ogr:latitude>
+    <ogr:longitude>-123.179071166607642</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265115331219569" lon="-123.17904905736512">
+  <time>2022-12-07T13:26:30.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265115331219569</ogr:latitude>
+    <ogr:longitude>-123.17904905736512</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265122260229901" lon="-123.179021571311424">
+  <time>2022-12-07T13:26:31.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265122260229901</ogr:latitude>
+    <ogr:longitude>-123.179021571311424</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265122421208979" lon="-123.178999834778821">
+  <time>2022-12-07T13:26:32.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265122421208979</ogr:latitude>
+    <ogr:longitude>-123.178999834778821</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265127563342219" lon="-123.17897196158755">
+  <time>2022-12-07T13:26:33.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265127563342219</ogr:latitude>
+    <ogr:longitude>-123.17897196158755</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265123905750542" lon="-123.178956292244322">
+  <time>2022-12-07T13:26:34.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265123905750542</ogr:latitude>
+    <ogr:longitude>-123.178956292244322</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265123760210457" lon="-123.178935931175758">
+  <time>2022-12-07T13:26:35.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265123760210457</ogr:latitude>
+    <ogr:longitude>-123.178935931175758</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265125468566119" lon="-123.178905369010039">
+  <time>2022-12-07T13:26:36.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265125468566119</ogr:latitude>
+    <ogr:longitude>-123.178905369010039</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265127175450111" lon="-123.178892707137194">
+  <time>2022-12-07T13:26:37.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265127175450111</ogr:latitude>
+    <ogr:longitude>-123.178892707137194</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265132822128493" lon="-123.178873140521915">
+  <time>2022-12-07T13:26:38.146Z</time>
+  <extensions>
+    <ogr:latitude>49.265132822128493</ogr:latitude>
+    <ogr:longitude>-123.178873140521915</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265132133605164" lon="-123.178842304208786">
+  <time>2022-12-07T13:26:39.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265132133605164</ogr:latitude>
+    <ogr:longitude>-123.178842304208786</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265131775667705" lon="-123.178823827311433">
+  <time>2022-12-07T13:26:40.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265131775667705</ogr:latitude>
+    <ogr:longitude>-123.178823827311433</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265131267586774" lon="-123.178803930558516">
+  <time>2022-12-07T13:26:41.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265131267586774</ogr:latitude>
+    <ogr:longitude>-123.178803930558516</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265133524086636" lon="-123.178772586815441">
+  <time>2022-12-07T13:26:42.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265133524086636</ogr:latitude>
+    <ogr:longitude>-123.178772586815441</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265138789589706" lon="-123.17875854788393">
+  <time>2022-12-07T13:26:43.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265138789589706</ogr:latitude>
+    <ogr:longitude>-123.17875854788393</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265135293073165" lon="-123.178731473624282">
+  <time>2022-12-07T13:26:44.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265135293073165</ogr:latitude>
+    <ogr:longitude>-123.178731473624282</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265136025793467" lon="-123.178713356472315">
+  <time>2022-12-07T13:26:45.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265136025793467</ogr:latitude>
+    <ogr:longitude>-123.178713356472315</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265132933838984" lon="-123.178689676162648">
+  <time>2022-12-07T13:26:46.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265132933838984</ogr:latitude>
+    <ogr:longitude>-123.178689676162648</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265129029949257" lon="-123.178667501840422">
+  <time>2022-12-07T13:26:47.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265129029949257</ogr:latitude>
+    <ogr:longitude>-123.178667501840422</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265131320741787" lon="-123.178644293542149">
+  <time>2022-12-07T13:26:48.227Z</time>
+  <extensions>
+    <ogr:latitude>49.265131320741787</ogr:latitude>
+    <ogr:longitude>-123.178644293542149</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265133231408832" lon="-123.178616839138101">
+  <time>2022-12-07T13:26:49.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265133231408832</ogr:latitude>
+    <ogr:longitude>-123.178616839138101</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265132088850237" lon="-123.178594942675701">
+  <time>2022-12-07T13:26:50.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265132088850237</ogr:latitude>
+    <ogr:longitude>-123.178594942675701</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265135491464946" lon="-123.178567927575955">
+  <time>2022-12-07T13:26:51.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265135491464946</ogr:latitude>
+    <ogr:longitude>-123.178567927575955</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265131424051155" lon="-123.178550522299275">
+  <time>2022-12-07T13:26:52.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265131424051155</ogr:latitude>
+    <ogr:longitude>-123.178550522299275</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265134811755978" lon="-123.178520404311271">
+  <time>2022-12-07T13:26:53.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265134811755978</ogr:latitude>
+    <ogr:longitude>-123.178520404311271</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265134942085602" lon="-123.178503048569468">
+  <time>2022-12-07T13:26:54.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265134942085602</ogr:latitude>
+    <ogr:longitude>-123.178503048569468</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265134784562768" lon="-123.178480669902925">
+  <time>2022-12-07T13:26:55.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265134784562768</ogr:latitude>
+    <ogr:longitude>-123.178480669902925</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265135724944081" lon="-123.178458653076476">
+  <time>2022-12-07T13:26:56.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265135724944081</ogr:latitude>
+    <ogr:longitude>-123.178458653076476</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26513752490186" lon="-123.178438380488942">
+  <time>2022-12-07T13:26:57.148Z</time>
+  <extensions>
+    <ogr:latitude>49.26513752490186</ogr:latitude>
+    <ogr:longitude>-123.178438380488942</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265138787837742" lon="-123.17840820803913">
+  <time>2022-12-07T13:26:58.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265138787837742</ogr:latitude>
+    <ogr:longitude>-123.17840820803913</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265135138713546" lon="-123.178395716514785">
+  <time>2022-12-07T13:26:59.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265135138713546</ogr:latitude>
+    <ogr:longitude>-123.178395716514785</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265134256412338" lon="-123.178374263605349">
+  <time>2022-12-07T13:27:00.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265134256412338</ogr:latitude>
+    <ogr:longitude>-123.178374263605349</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265132526017304" lon="-123.178353124707584">
+  <time>2022-12-07T13:27:01.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265132526017304</ogr:latitude>
+    <ogr:longitude>-123.178353124707584</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265139007105368" lon="-123.178332888625775">
+  <time>2022-12-07T13:27:02.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265139007105368</ogr:latitude>
+    <ogr:longitude>-123.178332888625775</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265139064563073" lon="-123.178313172952173">
+  <time>2022-12-07T13:27:03.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265139064563073</ogr:latitude>
+    <ogr:longitude>-123.178313172952173</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265142159752557" lon="-123.17828859059928">
+  <time>2022-12-07T13:27:04.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265142159752557</ogr:latitude>
+    <ogr:longitude>-123.17828859059928</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265154171173776" lon="-123.178271320668671">
+  <time>2022-12-07T13:27:05.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265154171173776</ogr:latitude>
+    <ogr:longitude>-123.178271320668671</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265155835840069" lon="-123.178246923996156">
+  <time>2022-12-07T13:27:06.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265155835840069</ogr:latitude>
+    <ogr:longitude>-123.178246923996156</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265156644225051" lon="-123.17822956760979">
+  <time>2022-12-07T13:27:07.157Z</time>
+  <extensions>
+    <ogr:latitude>49.265156644225051</ogr:latitude>
+    <ogr:longitude>-123.17822956760979</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265157657616889" lon="-123.178208179664196">
+  <time>2022-12-07T13:27:08.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265157657616889</ogr:latitude>
+    <ogr:longitude>-123.178208179664196</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265155704001081" lon="-123.178184601154157">
+  <time>2022-12-07T13:27:09.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265155704001081</ogr:latitude>
+    <ogr:longitude>-123.178184601154157</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26515471666869" lon="-123.178155917700664">
+  <time>2022-12-07T13:27:10.150Z</time>
+  <extensions>
+    <ogr:latitude>49.26515471666869</ogr:latitude>
+    <ogr:longitude>-123.178155917700664</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265149380521024" lon="-123.178137117015282">
+  <time>2022-12-07T13:27:11.157Z</time>
+  <extensions>
+    <ogr:latitude>49.265149380521024</ogr:latitude>
+    <ogr:longitude>-123.178137117015282</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265145973166021" lon="-123.17811512881822">
+  <time>2022-12-07T13:27:12.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265145973166021</ogr:latitude>
+    <ogr:longitude>-123.17811512881822</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265139544361368" lon="-123.178097425996114">
+  <time>2022-12-07T13:27:13.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265139544361368</ogr:latitude>
+    <ogr:longitude>-123.178097425996114</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265141098599109" lon="-123.178081323415356">
+  <time>2022-12-07T13:27:14.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265141098599109</ogr:latitude>
+    <ogr:longitude>-123.178081323415356</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265143773768692" lon="-123.178058092180493">
+  <time>2022-12-07T13:27:15.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265143773768692</ogr:latitude>
+    <ogr:longitude>-123.178058092180493</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265141286349497" lon="-123.178034345270973">
+  <time>2022-12-07T13:27:16.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265141286349497</ogr:latitude>
+    <ogr:longitude>-123.178034345270973</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265143402483702" lon="-123.178017907992626">
+  <time>2022-12-07T13:27:17.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265143402483702</ogr:latitude>
+    <ogr:longitude>-123.178017907992626</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265144082100406" lon="-123.178009922577502">
+  <time>2022-12-07T13:27:18.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265144082100406</ogr:latitude>
+    <ogr:longitude>-123.178009922577502</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265144671033767" lon="-123.178014065230101">
+  <time>2022-12-07T13:27:19.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265144671033767</ogr:latitude>
+    <ogr:longitude>-123.178014065230101</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265144739018851" lon="-123.178013711186026">
+  <time>2022-12-07T13:27:20.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265144739018851</ogr:latitude>
+    <ogr:longitude>-123.178013711186026</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265144544596311" lon="-123.178012470216714">
+  <time>2022-12-07T13:27:21.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265144544596311</ogr:latitude>
+    <ogr:longitude>-123.178012470216714</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26514410329434" lon="-123.178004825911927">
+  <time>2022-12-07T13:27:22.151Z</time>
+  <extensions>
+    <ogr:latitude>49.26514410329434</ogr:latitude>
+    <ogr:longitude>-123.178004825911927</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265140939549546" lon="-123.177982756326472">
+  <time>2022-12-07T13:27:23.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265140939549546</ogr:latitude>
+    <ogr:longitude>-123.177982756326472</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265138883470165" lon="-123.177963253617165">
+  <time>2022-12-07T13:27:24.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265138883470165</ogr:latitude>
+    <ogr:longitude>-123.177963253617165</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.2651365420692" lon="-123.177937891230357">
+  <time>2022-12-07T13:27:25.151Z</time>
+  <extensions>
+    <ogr:latitude>49.2651365420692</ogr:latitude>
+    <ogr:longitude>-123.177937891230357</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265120147532151" lon="-123.177922097610534">
+  <time>2022-12-07T13:27:26.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265120147532151</ogr:latitude>
+    <ogr:longitude>-123.177922097610534</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265099871738492" lon="-123.177921865999082">
+  <time>2022-12-07T13:27:27.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265099871738492</ogr:latitude>
+    <ogr:longitude>-123.177921865999082</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265086884479352" lon="-123.177925697653308">
+  <time>2022-12-07T13:27:28.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265086884479352</ogr:latitude>
+    <ogr:longitude>-123.177925697653308</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265063919712773" lon="-123.177933246025617">
+  <time>2022-12-07T13:27:29.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265063919712773</ogr:latitude>
+    <ogr:longitude>-123.177933246025617</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265046148641098" lon="-123.177932036534386">
+  <time>2022-12-07T13:27:30.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265046148641098</ogr:latitude>
+    <ogr:longitude>-123.177932036534386</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265037798915941" lon="-123.177930187345865">
+  <time>2022-12-07T13:27:31.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265037798915941</ogr:latitude>
+    <ogr:longitude>-123.177930187345865</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265025965191143" lon="-123.177924840336544">
+  <time>2022-12-07T13:27:32.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265025965191143</ogr:latitude>
+    <ogr:longitude>-123.177924840336544</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264994638677912" lon="-123.177918340864665">
+  <time>2022-12-07T13:27:33.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264994638677912</ogr:latitude>
+    <ogr:longitude>-123.177918340864665</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26497910419809" lon="-123.177917500926014">
+  <time>2022-12-07T13:27:34.148Z</time>
+  <extensions>
+    <ogr:latitude>49.26497910419809</ogr:latitude>
+    <ogr:longitude>-123.177917500926014</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264973460690001" lon="-123.177921642757099">
+  <time>2022-12-07T13:27:35.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264973460690001</ogr:latitude>
+    <ogr:longitude>-123.177921642757099</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264957208930404" lon="-123.17791641220569">
+  <time>2022-12-07T13:27:36.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264957208930404</ogr:latitude>
+    <ogr:longitude>-123.17791641220569</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264938066645698" lon="-123.177911161403259">
+  <time>2022-12-07T13:27:37.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264938066645698</ogr:latitude>
+    <ogr:longitude>-123.177911161403259</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264922291950342" lon="-123.177913247636909">
+  <time>2022-12-07T13:27:38.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264922291950342</ogr:latitude>
+    <ogr:longitude>-123.177913247636909</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26490618238963" lon="-123.17791396974124">
+  <time>2022-12-07T13:27:39.150Z</time>
+  <extensions>
+    <ogr:latitude>49.26490618238963</ogr:latitude>
+    <ogr:longitude>-123.17791396974124</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264890305909042" lon="-123.177909075038599">
+  <time>2022-12-07T13:27:40.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264890305909042</ogr:latitude>
+    <ogr:longitude>-123.177909075038599</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264876886828823" lon="-123.177912432637996">
+  <time>2022-12-07T13:27:41.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264876886828823</ogr:latitude>
+    <ogr:longitude>-123.177912432637996</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264858021483008" lon="-123.177902508797317">
+  <time>2022-12-07T13:27:42.147Z</time>
+  <extensions>
+    <ogr:latitude>49.264858021483008</ogr:latitude>
+    <ogr:longitude>-123.177902508797317</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264843424690717" lon="-123.177907579734011">
+  <time>2022-12-07T13:27:43.146Z</time>
+  <extensions>
+    <ogr:latitude>49.264843424690717</ogr:latitude>
+    <ogr:longitude>-123.177907579734011</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264830640628723" lon="-123.177900923209293">
+  <time>2022-12-07T13:27:44.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264830640628723</ogr:latitude>
+    <ogr:longitude>-123.177900923209293</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264814040245973" lon="-123.177911559768091">
+  <time>2022-12-07T13:27:45.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264814040245973</ogr:latitude>
+    <ogr:longitude>-123.177911559768091</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264800742805299" lon="-123.177912328847995">
+  <time>2022-12-07T13:27:46.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264800742805299</ogr:latitude>
+    <ogr:longitude>-123.177912328847995</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26478844423945" lon="-123.177909435625509">
+  <time>2022-12-07T13:27:47.156Z</time>
+  <extensions>
+    <ogr:latitude>49.26478844423945</ogr:latitude>
+    <ogr:longitude>-123.177909435625509</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264770890251775" lon="-123.177903961859684">
+  <time>2022-12-07T13:27:48.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264770890251775</ogr:latitude>
+    <ogr:longitude>-123.177903961859684</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264752414118007" lon="-123.177912117694703">
+  <time>2022-12-07T13:27:49.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264752414118007</ogr:latitude>
+    <ogr:longitude>-123.177912117694703</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264737910818454" lon="-123.177922185383764">
+  <time>2022-12-07T13:27:50.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264737910818454</ogr:latitude>
+    <ogr:longitude>-123.177922185383764</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26472217928108" lon="-123.177928993127338">
+  <time>2022-12-07T13:27:51.151Z</time>
+  <extensions>
+    <ogr:latitude>49.26472217928108</ogr:latitude>
+    <ogr:longitude>-123.177928993127338</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264709989655685" lon="-123.177938660742939">
+  <time>2022-12-07T13:27:52.151Z</time>
+  <extensions>
+    <ogr:latitude>49.264709989655685</ogr:latitude>
+    <ogr:longitude>-123.177938660742939</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264695925995667" lon="-123.177944516573362">
+  <time>2022-12-07T13:27:53.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264695925995667</ogr:latitude>
+    <ogr:longitude>-123.177944516573362</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264681772541323" lon="-123.177948383022184">
+  <time>2022-12-07T13:27:54.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264681772541323</ogr:latitude>
+    <ogr:longitude>-123.177948383022184</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264666737737159" lon="-123.177949665699686">
+  <time>2022-12-07T13:27:55.147Z</time>
+  <extensions>
+    <ogr:latitude>49.264666737737159</ogr:latitude>
+    <ogr:longitude>-123.177949665699686</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264647712211492" lon="-123.177939811667827">
+  <time>2022-12-07T13:27:56.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264647712211492</ogr:latitude>
+    <ogr:longitude>-123.177939811667827</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264634203920146" lon="-123.177938425686776">
+  <time>2022-12-07T13:27:57.148Z</time>
+  <extensions>
+    <ogr:latitude>49.264634203920146</ogr:latitude>
+    <ogr:longitude>-123.177938425686776</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264621157651611" lon="-123.177935423266135">
+  <time>2022-12-07T13:27:58.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264621157651611</ogr:latitude>
+    <ogr:longitude>-123.177935423266135</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264608595500171" lon="-123.177937864957755">
+  <time>2022-12-07T13:27:59.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264608595500171</ogr:latitude>
+    <ogr:longitude>-123.177937864957755</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264594818697738" lon="-123.177936845251594">
+  <time>2022-12-07T13:28:00.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264594818697738</ogr:latitude>
+    <ogr:longitude>-123.177936845251594</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264581060196576" lon="-123.17793546778222">
+  <time>2022-12-07T13:28:01.151Z</time>
+  <extensions>
+    <ogr:latitude>49.264581060196576</ogr:latitude>
+    <ogr:longitude>-123.17793546778222</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26456298275621" lon="-123.177925936829752">
+  <time>2022-12-07T13:28:02.152Z</time>
+  <extensions>
+    <ogr:latitude>49.26456298275621</ogr:latitude>
+    <ogr:longitude>-123.177925936829752</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26454827378123" lon="-123.177920575794246">
+  <time>2022-12-07T13:28:03.153Z</time>
+  <extensions>
+    <ogr:latitude>49.26454827378123</ogr:latitude>
+    <ogr:longitude>-123.177920575794246</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264532316008889" lon="-123.177917069755239">
+  <time>2022-12-07T13:28:04.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264532316008889</ogr:latitude>
+    <ogr:longitude>-123.177917069755239</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264519497016316" lon="-123.17791611515257">
+  <time>2022-12-07T13:28:05.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264519497016316</ogr:latitude>
+    <ogr:longitude>-123.17791611515257</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264504765162606" lon="-123.177910503851535">
+  <time>2022-12-07T13:28:06.151Z</time>
+  <extensions>
+    <ogr:latitude>49.264504765162606</ogr:latitude>
+    <ogr:longitude>-123.177910503851535</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264491084119506" lon="-123.177901054754898">
+  <time>2022-12-07T13:28:07.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264491084119506</ogr:latitude>
+    <ogr:longitude>-123.177901054754898</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264475228559135" lon="-123.177903883454221">
+  <time>2022-12-07T13:28:08.148Z</time>
+  <extensions>
+    <ogr:latitude>49.264475228559135</ogr:latitude>
+    <ogr:longitude>-123.177903883454221</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264459121873877" lon="-123.177897753996106">
+  <time>2022-12-07T13:28:09.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264459121873877</ogr:latitude>
+    <ogr:longitude>-123.177897753996106</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264448165822159" lon="-123.177899080685464">
+  <time>2022-12-07T13:28:10.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264448165822159</ogr:latitude>
+    <ogr:longitude>-123.177899080685464</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264432811653357" lon="-123.177901310421944">
+  <time>2022-12-07T13:28:11.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264432811653357</ogr:latitude>
+    <ogr:longitude>-123.177901310421944</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264414685587262" lon="-123.17792684774534">
+  <time>2022-12-07T13:28:12.148Z</time>
+  <extensions>
+    <ogr:latitude>49.264414685587262</ogr:latitude>
+    <ogr:longitude>-123.17792684774534</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264407166893314" lon="-123.177948209843933">
+  <time>2022-12-07T13:28:13.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264407166893314</ogr:latitude>
+    <ogr:longitude>-123.177948209843933</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264397736670588" lon="-123.17797140035556">
+  <time>2022-12-07T13:28:14.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264397736670588</ogr:latitude>
+    <ogr:longitude>-123.17797140035556</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26438978871407" lon="-123.177982905339704">
+  <time>2022-12-07T13:28:15.153Z</time>
+  <extensions>
+    <ogr:latitude>49.26438978871407</ogr:latitude>
+    <ogr:longitude>-123.177982905339704</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264387660231158" lon="-123.178012000873352">
+  <time>2022-12-07T13:28:16.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264387660231158</ogr:latitude>
+    <ogr:longitude>-123.178012000873352</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264382736661283" lon="-123.178031851018261">
+  <time>2022-12-07T13:28:17.147Z</time>
+  <extensions>
+    <ogr:latitude>49.264382736661283</ogr:latitude>
+    <ogr:longitude>-123.178031851018261</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264372734919363" lon="-123.178049670945967">
+  <time>2022-12-07T13:28:18.979Z</time>
+  <extensions>
+    <ogr:latitude>49.264372734919363</ogr:latitude>
+    <ogr:longitude>-123.178049670945967</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264369159648886" lon="-123.178069275006322">
+  <time>2022-12-07T13:28:19.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264369159648886</ogr:latitude>
+    <ogr:longitude>-123.178069275006322</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264361620431956" lon="-123.178093827569711">
+  <time>2022-12-07T13:28:20.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264361620431956</ogr:latitude>
+    <ogr:longitude>-123.178093827569711</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264353366669084" lon="-123.178119457864625">
+  <time>2022-12-07T13:28:21.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264353366669084</ogr:latitude>
+    <ogr:longitude>-123.178119457864625</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264351652304569" lon="-123.178143872519257">
+  <time>2022-12-07T13:28:22.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264351652304569</ogr:latitude>
+    <ogr:longitude>-123.178143872519257</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264346508105653" lon="-123.17816961747323">
+  <time>2022-12-07T13:28:23.148Z</time>
+  <extensions>
+    <ogr:latitude>49.264346508105653</ogr:latitude>
+    <ogr:longitude>-123.17816961747323</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264348454979412" lon="-123.178188561244554">
+  <time>2022-12-07T13:28:24.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264348454979412</ogr:latitude>
+    <ogr:longitude>-123.178188561244554</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264343918649139" lon="-123.178201677256965">
+  <time>2022-12-07T13:28:25.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264343918649139</ogr:latitude>
+    <ogr:longitude>-123.178201677256965</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264341868825724" lon="-123.178235752162678">
+  <time>2022-12-07T13:28:26.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264341868825724</ogr:latitude>
+    <ogr:longitude>-123.178235752162678</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264339178997822" lon="-123.178260563613748">
+  <time>2022-12-07T13:28:27.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264339178997822</ogr:latitude>
+    <ogr:longitude>-123.178260563613748</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264337178758957" lon="-123.178292684862214">
+  <time>2022-12-07T13:28:28.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264337178758957</ogr:latitude>
+    <ogr:longitude>-123.178292684862214</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264335205006809" lon="-123.17830799495124">
+  <time>2022-12-07T13:28:29.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264335205006809</ogr:latitude>
+    <ogr:longitude>-123.17830799495124</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264330087632253" lon="-123.178336725720271">
+  <time>2022-12-07T13:28:30.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264330087632253</ogr:latitude>
+    <ogr:longitude>-123.178336725720271</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264326177527657" lon="-123.178357145547494">
+  <time>2022-12-07T13:28:31.158Z</time>
+  <extensions>
+    <ogr:latitude>49.264326177527657</ogr:latitude>
+    <ogr:longitude>-123.178357145547494</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264316301880278" lon="-123.178379162239153">
+  <time>2022-12-07T13:28:32.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264316301880278</ogr:latitude>
+    <ogr:longitude>-123.178379162239153</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264314043895517" lon="-123.178403226280324">
+  <time>2022-12-07T13:28:33.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264314043895517</ogr:latitude>
+    <ogr:longitude>-123.178403226280324</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264312700303961" lon="-123.178430417974326">
+  <time>2022-12-07T13:28:34.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264312700303961</ogr:latitude>
+    <ogr:longitude>-123.178430417974326</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264311501486922" lon="-123.178454806439802">
+  <time>2022-12-07T13:28:35.147Z</time>
+  <extensions>
+    <ogr:latitude>49.264311501486922</ogr:latitude>
+    <ogr:longitude>-123.178454806439802</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264309740737019" lon="-123.17848059907169">
+  <time>2022-12-07T13:28:36.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264309740737019</ogr:latitude>
+    <ogr:longitude>-123.17848059907169</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264306034680125" lon="-123.178502853733363">
+  <time>2022-12-07T13:28:37.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264306034680125</ogr:latitude>
+    <ogr:longitude>-123.178502853733363</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264304855946911" lon="-123.178527149489781">
+  <time>2022-12-07T13:28:38.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264304855946911</ogr:latitude>
+    <ogr:longitude>-123.178527149489781</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264303413548731" lon="-123.178546425103491">
+  <time>2022-12-07T13:28:39.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264303413548731</ogr:latitude>
+    <ogr:longitude>-123.178546425103491</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264301759258906" lon="-123.17856340675965">
+  <time>2022-12-07T13:28:40.146Z</time>
+  <extensions>
+    <ogr:latitude>49.264301759258906</ogr:latitude>
+    <ogr:longitude>-123.17856340675965</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264297593898512" lon="-123.178583054025097">
+  <time>2022-12-07T13:28:41.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264297593898512</ogr:latitude>
+    <ogr:longitude>-123.178583054025097</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264293810787905" lon="-123.178606692621869">
+  <time>2022-12-07T13:28:42.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264293810787905</ogr:latitude>
+    <ogr:longitude>-123.178606692621869</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264285587755865" lon="-123.178628430583814">
+  <time>2022-12-07T13:28:43.664Z</time>
+  <extensions>
+    <ogr:latitude>49.264285587755865</ogr:latitude>
+    <ogr:longitude>-123.178628430583814</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264283884655065" lon="-123.178649349814705">
+  <time>2022-12-07T13:28:44.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264283884655065</ogr:latitude>
+    <ogr:longitude>-123.178649349814705</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264275406748773" lon="-123.178673226968144">
+  <time>2022-12-07T13:28:45.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264275406748773</ogr:latitude>
+    <ogr:longitude>-123.178673226968144</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264271735806169" lon="-123.1786901675286">
+  <time>2022-12-07T13:28:46.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264271735806169</ogr:latitude>
+    <ogr:longitude>-123.1786901675286</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264267987992916" lon="-123.178715489580668">
+  <time>2022-12-07T13:28:47.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264267987992916</ogr:latitude>
+    <ogr:longitude>-123.178715489580668</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264262707599975" lon="-123.178736279871416">
+  <time>2022-12-07T13:28:48.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264262707599975</ogr:latitude>
+    <ogr:longitude>-123.178736279871416</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264255249891399" lon="-123.178760540422275">
+  <time>2022-12-07T13:28:49.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264255249891399</ogr:latitude>
+    <ogr:longitude>-123.178760540422275</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264249574730563" lon="-123.178779476099976">
+  <time>2022-12-07T13:28:50.159Z</time>
+  <extensions>
+    <ogr:latitude>49.264249574730563</ogr:latitude>
+    <ogr:longitude>-123.178779476099976</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264247008177591" lon="-123.178803419329512">
+  <time>2022-12-07T13:28:51.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264247008177591</ogr:latitude>
+    <ogr:longitude>-123.178803419329512</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264245228533412" lon="-123.178818652707307">
+  <time>2022-12-07T13:28:52.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264245228533412</ogr:latitude>
+    <ogr:longitude>-123.178818652707307</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264244481786932" lon="-123.178841021540777">
+  <time>2022-12-07T13:28:53.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264244481786932</ogr:latitude>
+    <ogr:longitude>-123.178841021540777</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264240257788323" lon="-123.17886312988152">
+  <time>2022-12-07T13:28:54.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264240257788323</ogr:latitude>
+    <ogr:longitude>-123.17886312988152</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264238129344442" lon="-123.178881165719062">
+  <time>2022-12-07T13:28:55.199Z</time>
+  <extensions>
+    <ogr:latitude>49.264238129344442</ogr:latitude>
+    <ogr:longitude>-123.178881165719062</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264235570632998" lon="-123.178902008712996">
+  <time>2022-12-07T13:28:56.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264235570632998</ogr:latitude>
+    <ogr:longitude>-123.178902008712996</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264231691212345" lon="-123.178914151559184">
+  <time>2022-12-07T13:28:57.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264231691212345</ogr:latitude>
+    <ogr:longitude>-123.178914151559184</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264230597022909" lon="-123.178928383436158">
+  <time>2022-12-07T13:28:58.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264230597022909</ogr:latitude>
+    <ogr:longitude>-123.178928383436158</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264227770135193" lon="-123.178945690602362">
+  <time>2022-12-07T13:28:59.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264227770135193</ogr:latitude>
+    <ogr:longitude>-123.178945690602362</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264232121893421" lon="-123.178969898735104">
+  <time>2022-12-07T13:29:00.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264232121893421</ogr:latitude>
+    <ogr:longitude>-123.178969898735104</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264234553692475" lon="-123.178994834970908">
+  <time>2022-12-07T13:29:01.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264234553692475</ogr:latitude>
+    <ogr:longitude>-123.178994834970908</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264236209785693" lon="-123.179009864413644">
+  <time>2022-12-07T13:29:02.158Z</time>
+  <extensions>
+    <ogr:latitude>49.264236209785693</ogr:latitude>
+    <ogr:longitude>-123.179009864413644</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264230647109166" lon="-123.179035182148908">
+  <time>2022-12-07T13:29:03.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264230647109166</ogr:latitude>
+    <ogr:longitude>-123.179035182148908</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264230695706765" lon="-123.179052838440541">
+  <time>2022-12-07T13:29:04.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264230695706765</ogr:latitude>
+    <ogr:longitude>-123.179052838440541</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264236133682843" lon="-123.179075931546762">
+  <time>2022-12-07T13:29:05.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264236133682843</ogr:latitude>
+    <ogr:longitude>-123.179075931546762</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264249626794943" lon="-123.179094513631284">
+  <time>2022-12-07T13:29:06.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264249626794943</ogr:latitude>
+    <ogr:longitude>-123.179094513631284</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264263050226482" lon="-123.179118039635682">
+  <time>2022-12-07T13:29:07.158Z</time>
+  <extensions>
+    <ogr:latitude>49.264263050226482</ogr:latitude>
+    <ogr:longitude>-123.179118039635682</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264264801549992" lon="-123.179141983743378">
+  <time>2022-12-07T13:29:08.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264264801549992</ogr:latitude>
+    <ogr:longitude>-123.179141983743378</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264271627771734" lon="-123.179162922749839">
+  <time>2022-12-07T13:29:09.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264271627771734</ogr:latitude>
+    <ogr:longitude>-123.179162922749839</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264271612584096" lon="-123.179180972262799">
+  <time>2022-12-07T13:29:10.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264271612584096</ogr:latitude>
+    <ogr:longitude>-123.179180972262799</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264275705992794" lon="-123.179194136887048">
+  <time>2022-12-07T13:29:11.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264275705992794</ogr:latitude>
+    <ogr:longitude>-123.179194136887048</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264281365227674" lon="-123.179214221086255">
+  <time>2022-12-07T13:29:12.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264281365227674</ogr:latitude>
+    <ogr:longitude>-123.179214221086255</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264283824428091" lon="-123.179234588733109">
+  <time>2022-12-07T13:29:13.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264283824428091</ogr:latitude>
+    <ogr:longitude>-123.179234588733109</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264291504552297" lon="-123.179265759672447">
+  <time>2022-12-07T13:29:14.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264291504552297</ogr:latitude>
+    <ogr:longitude>-123.179265759672447</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264296036373032" lon="-123.179292816299053">
+  <time>2022-12-07T13:29:15.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264296036373032</ogr:latitude>
+    <ogr:longitude>-123.179292816299053</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264297754054319" lon="-123.17931127584184">
+  <time>2022-12-07T13:29:16.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264297754054319</ogr:latitude>
+    <ogr:longitude>-123.17931127584184</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264306280633754" lon="-123.179335675955059">
+  <time>2022-12-07T13:29:17.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264306280633754</ogr:latitude>
+    <ogr:longitude>-123.179335675955059</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26430895116404" lon="-123.179353588573633">
+  <time>2022-12-07T13:29:18.156Z</time>
+  <extensions>
+    <ogr:latitude>49.26430895116404</ogr:latitude>
+    <ogr:longitude>-123.179353588573633</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264311735429217" lon="-123.179375393152">
+  <time>2022-12-07T13:29:19.159Z</time>
+  <extensions>
+    <ogr:latitude>49.264311735429217</ogr:latitude>
+    <ogr:longitude>-123.179375393152</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264312398103577" lon="-123.179398986505447">
+  <time>2022-12-07T13:29:20.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264312398103577</ogr:latitude>
+    <ogr:longitude>-123.179398986505447</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264315650467864" lon="-123.179426283887679">
+  <time>2022-12-07T13:29:21.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264315650467864</ogr:latitude>
+    <ogr:longitude>-123.179426283887679</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264307364357293" lon="-123.179443099740823">
+  <time>2022-12-07T13:29:22.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264307364357293</ogr:latitude>
+    <ogr:longitude>-123.179443099740823</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264311804870857" lon="-123.179466327074294">
+  <time>2022-12-07T13:29:23.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264311804870857</ogr:latitude>
+    <ogr:longitude>-123.179466327074294</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264307301786346" lon="-123.179483929821259">
+  <time>2022-12-07T13:29:24.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264307301786346</ogr:latitude>
+    <ogr:longitude>-123.179483929821259</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264303157883781" lon="-123.17950099506254">
+  <time>2022-12-07T13:29:25.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264303157883781</ogr:latitude>
+    <ogr:longitude>-123.17950099506254</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264305856880974" lon="-123.179521961229185">
+  <time>2022-12-07T13:29:26.151Z</time>
+  <extensions>
+    <ogr:latitude>49.264305856880974</ogr:latitude>
+    <ogr:longitude>-123.179521961229185</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264314040104225" lon="-123.179541656049338">
+  <time>2022-12-07T13:29:27.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264314040104225</ogr:latitude>
+    <ogr:longitude>-123.179541656049338</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264317843656755" lon="-123.179564687258562">
+  <time>2022-12-07T13:29:28.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264317843656755</ogr:latitude>
+    <ogr:longitude>-123.179564687258562</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264322348200871" lon="-123.179585075256156">
+  <time>2022-12-07T13:29:29.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264322348200871</ogr:latitude>
+    <ogr:longitude>-123.179585075256156</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264329392574481" lon="-123.179601225979113">
+  <time>2022-12-07T13:29:30.158Z</time>
+  <extensions>
+    <ogr:latitude>49.264329392574481</ogr:latitude>
+    <ogr:longitude>-123.179601225979113</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264338273142052" lon="-123.179618529017759">
+  <time>2022-12-07T13:29:31.160Z</time>
+  <extensions>
+    <ogr:latitude>49.264338273142052</ogr:latitude>
+    <ogr:longitude>-123.179618529017759</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264352680983706" lon="-123.179631251929052">
+  <time>2022-12-07T13:29:32.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264352680983706</ogr:latitude>
+    <ogr:longitude>-123.179631251929052</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264368424385353" lon="-123.179643962869449">
+  <time>2022-12-07T13:29:33.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264368424385353</ogr:latitude>
+    <ogr:longitude>-123.179643962869449</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264375657730746" lon="-123.179655144533626">
+  <time>2022-12-07T13:29:34.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264375657730746</ogr:latitude>
+    <ogr:longitude>-123.179655144533626</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264386623390322" lon="-123.179672879342732">
+  <time>2022-12-07T13:29:35.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264386623390322</ogr:latitude>
+    <ogr:longitude>-123.179672879342732</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264403002603785" lon="-123.179677496363311">
+  <time>2022-12-07T13:29:36.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264403002603785</ogr:latitude>
+    <ogr:longitude>-123.179677496363311</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264414413702717" lon="-123.179689850114144">
+  <time>2022-12-07T13:29:37.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264414413702717</ogr:latitude>
+    <ogr:longitude>-123.179689850114144</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26443184371167" lon="-123.179701526425575">
+  <time>2022-12-07T13:29:38.157Z</time>
+  <extensions>
+    <ogr:latitude>49.26443184371167</ogr:latitude>
+    <ogr:longitude>-123.179701526425575</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264450553798042" lon="-123.179704404086849">
+  <time>2022-12-07T13:29:39.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264450553798042</ogr:latitude>
+    <ogr:longitude>-123.179704404086849</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264465335414179" lon="-123.179710786151816">
+  <time>2022-12-07T13:29:40.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264465335414179</ogr:latitude>
+    <ogr:longitude>-123.179710786151816</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264485722671679" lon="-123.179710196948008">
+  <time>2022-12-07T13:29:41.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264485722671679</ogr:latitude>
+    <ogr:longitude>-123.179710196948008</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264499970867774" lon="-123.179710479144731">
+  <time>2022-12-07T13:29:42.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264499970867774</ogr:latitude>
+    <ogr:longitude>-123.179710479144731</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264518331818174" lon="-123.179712717980351">
+  <time>2022-12-07T13:29:43.231Z</time>
+  <extensions>
+    <ogr:latitude>49.264518331818174</ogr:latitude>
+    <ogr:longitude>-123.179712717980351</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264538276219298" lon="-123.179729865643111">
+  <time>2022-12-07T13:29:44.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264538276219298</ogr:latitude>
+    <ogr:longitude>-123.179729865643111</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264560583807395" lon="-123.17973196365196">
+  <time>2022-12-07T13:29:45.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264560583807395</ogr:latitude>
+    <ogr:longitude>-123.17973196365196</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264575792154353" lon="-123.179733668878342">
+  <time>2022-12-07T13:29:46.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264575792154353</ogr:latitude>
+    <ogr:longitude>-123.179733668878342</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26459139100988" lon="-123.179752534784171">
+  <time>2022-12-07T13:29:47.155Z</time>
+  <extensions>
+    <ogr:latitude>49.26459139100988</ogr:latitude>
+    <ogr:longitude>-123.179752534784171</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264613460757076" lon="-123.179756515869173">
+  <time>2022-12-07T13:29:48.155Z</time>
+  <extensions>
+    <ogr:latitude>49.264613460757076</ogr:latitude>
+    <ogr:longitude>-123.179756515869173</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264629995237009" lon="-123.17975733291172">
+  <time>2022-12-07T13:29:49.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264629995237009</ogr:latitude>
+    <ogr:longitude>-123.17975733291172</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264644746143055" lon="-123.179759357663258">
+  <time>2022-12-07T13:29:50.150Z</time>
+  <extensions>
+    <ogr:latitude>49.264644746143055</ogr:latitude>
+    <ogr:longitude>-123.179759357663258</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264659984381751" lon="-123.179762068965161">
+  <time>2022-12-07T13:29:51.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264659984381751</ogr:latitude>
+    <ogr:longitude>-123.179762068965161</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264675062226942" lon="-123.179765824698904">
+  <time>2022-12-07T13:29:52.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264675062226942</ogr:latitude>
+    <ogr:longitude>-123.179765824698904</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264687688058196" lon="-123.179775367375697">
+  <time>2022-12-07T13:29:53.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264687688058196</ogr:latitude>
+    <ogr:longitude>-123.179775367375697</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26470449247978" lon="-123.179783605175544">
+  <time>2022-12-07T13:29:54.150Z</time>
+  <extensions>
+    <ogr:latitude>49.26470449247978</ogr:latitude>
+    <ogr:longitude>-123.179783605175544</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264715007483794" lon="-123.179783131973579">
+  <time>2022-12-07T13:29:55.158Z</time>
+  <extensions>
+    <ogr:latitude>49.264715007483794</ogr:latitude>
+    <ogr:longitude>-123.179783131973579</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264734119415266" lon="-123.179791984740177">
+  <time>2022-12-07T13:29:56.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264734119415266</ogr:latitude>
+    <ogr:longitude>-123.179791984740177</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264740681538917" lon="-123.179802585761735">
+  <time>2022-12-07T13:29:57.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264740681538917</ogr:latitude>
+    <ogr:longitude>-123.179802585761735</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264752177181435" lon="-123.179810540705731">
+  <time>2022-12-07T13:29:58.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264752177181435</ogr:latitude>
+    <ogr:longitude>-123.179810540705731</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264762675471303" lon="-123.179811678827505">
+  <time>2022-12-07T13:29:59.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264762675471303</ogr:latitude>
+    <ogr:longitude>-123.179811678827505</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26477013521253" lon="-123.179818040307438">
+  <time>2022-12-07T13:30:00.153Z</time>
+  <extensions>
+    <ogr:latitude>49.26477013521253</ogr:latitude>
+    <ogr:longitude>-123.179818040307438</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264784152325007" lon="-123.179823658471719">
+  <time>2022-12-07T13:30:01.149Z</time>
+  <extensions>
+    <ogr:latitude>49.264784152325007</ogr:latitude>
+    <ogr:longitude>-123.179823658471719</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264800118005219" lon="-123.179826071542166">
+  <time>2022-12-07T13:30:02.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264800118005219</ogr:latitude>
+    <ogr:longitude>-123.179826071542166</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264812181960615" lon="-123.179830673528826">
+  <time>2022-12-07T13:30:03.151Z</time>
+  <extensions>
+    <ogr:latitude>49.264812181960615</ogr:latitude>
+    <ogr:longitude>-123.179830673528826</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264825805114654" lon="-123.179837920080772">
+  <time>2022-12-07T13:30:04.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264825805114654</ogr:latitude>
+    <ogr:longitude>-123.179837920080772</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264841852642263" lon="-123.179842870325231">
+  <time>2022-12-07T13:30:05.147Z</time>
+  <extensions>
+    <ogr:latitude>49.264841852642263</ogr:latitude>
+    <ogr:longitude>-123.179842870325231</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264861004158938" lon="-123.179848118997057">
+  <time>2022-12-07T13:30:06.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264861004158938</ogr:latitude>
+    <ogr:longitude>-123.179848118997057</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264870001265429" lon="-123.179850124211058">
+  <time>2022-12-07T13:30:07.151Z</time>
+  <extensions>
+    <ogr:latitude>49.264870001265429</ogr:latitude>
+    <ogr:longitude>-123.179850124211058</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264878199781585" lon="-123.179848747422596">
+  <time>2022-12-07T13:30:08.157Z</time>
+  <extensions>
+    <ogr:latitude>49.264878199781585</ogr:latitude>
+    <ogr:longitude>-123.179848747422596</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264887030713567" lon="-123.179847282724495">
+  <time>2022-12-07T13:30:09.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264887030713567</ogr:latitude>
+    <ogr:longitude>-123.179847282724495</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264911890952298" lon="-123.179846165155951">
+  <time>2022-12-07T13:30:10.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264911890952298</ogr:latitude>
+    <ogr:longitude>-123.179846165155951</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264932135946438" lon="-123.179847114292528">
+  <time>2022-12-07T13:30:11.156Z</time>
+  <extensions>
+    <ogr:latitude>49.264932135946438</ogr:latitude>
+    <ogr:longitude>-123.179847114292528</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264945130041085" lon="-123.179846690052884">
+  <time>2022-12-07T13:30:12.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264945130041085</ogr:latitude>
+    <ogr:longitude>-123.179846690052884</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264956084372116" lon="-123.179843549341982">
+  <time>2022-12-07T13:30:13.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264956084372116</ogr:latitude>
+    <ogr:longitude>-123.179843549341982</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264971328517412" lon="-123.179842424421793">
+  <time>2022-12-07T13:30:14.153Z</time>
+  <extensions>
+    <ogr:latitude>49.264971328517412</ogr:latitude>
+    <ogr:longitude>-123.179842424421793</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264980108452363" lon="-123.179843619392145">
+  <time>2022-12-07T13:30:15.154Z</time>
+  <extensions>
+    <ogr:latitude>49.264980108452363</ogr:latitude>
+    <ogr:longitude>-123.179843619392145</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.264996676076201" lon="-123.179844319166236">
+  <time>2022-12-07T13:30:16.152Z</time>
+  <extensions>
+    <ogr:latitude>49.264996676076201</ogr:latitude>
+    <ogr:longitude>-123.179844319166236</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265012049388638" lon="-123.179841549090966">
+  <time>2022-12-07T13:30:17.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265012049388638</ogr:latitude>
+    <ogr:longitude>-123.179841549090966</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265028313630012" lon="-123.179843966997112">
+  <time>2022-12-07T13:30:18.156Z</time>
+  <extensions>
+    <ogr:latitude>49.265028313630012</ogr:latitude>
+    <ogr:longitude>-123.179843966997112</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265045751648138" lon="-123.179844683299265">
+  <time>2022-12-07T13:30:19.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265045751648138</ogr:latitude>
+    <ogr:longitude>-123.179844683299265</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265058365841291" lon="-123.179853518352147">
+  <time>2022-12-07T13:30:20.158Z</time>
+  <extensions>
+    <ogr:latitude>49.265058365841291</ogr:latitude>
+    <ogr:longitude>-123.179853518352147</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265068487333075" lon="-123.17984993661041">
+  <time>2022-12-07T13:30:21.157Z</time>
+  <extensions>
+    <ogr:latitude>49.265068487333075</ogr:latitude>
+    <ogr:longitude>-123.17984993661041</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265076620639071" lon="-123.179849947951311">
+  <time>2022-12-07T13:30:22.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265076620639071</ogr:latitude>
+    <ogr:longitude>-123.179849947951311</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265075959262482" lon="-123.179849620346459">
+  <time>2022-12-07T13:30:23.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265075959262482</ogr:latitude>
+    <ogr:longitude>-123.179849620346459</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265075215994997" lon="-123.17984981556917">
+  <time>2022-12-07T13:30:24.152Z</time>
+  <extensions>
+    <ogr:latitude>49.265075215994997</ogr:latitude>
+    <ogr:longitude>-123.17984981556917</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265078118099225" lon="-123.179847524643662">
+  <time>2022-12-07T13:30:25.156Z</time>
+  <extensions>
+    <ogr:latitude>49.265078118099225</ogr:latitude>
+    <ogr:longitude>-123.179847524643662</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265077833922525" lon="-123.179846489827582">
+  <time>2022-12-07T13:30:26.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265077833922525</ogr:latitude>
+    <ogr:longitude>-123.179846489827582</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265081804316935" lon="-123.179849732562687">
+  <time>2022-12-07T13:30:27.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265081804316935</ogr:latitude>
+    <ogr:longitude>-123.179849732562687</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265085685115388" lon="-123.179844868810505">
+  <time>2022-12-07T13:30:28.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265085685115388</ogr:latitude>
+    <ogr:longitude>-123.179844868810505</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265096638498413" lon="-123.17982655440882">
+  <time>2022-12-07T13:30:29.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265096638498413</ogr:latitude>
+    <ogr:longitude>-123.17982655440882</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265115125329181" lon="-123.179788665091621">
+  <time>2022-12-07T13:30:30.148Z</time>
+  <extensions>
+    <ogr:latitude>49.265115125329181</ogr:latitude>
+    <ogr:longitude>-123.179788665091621</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265121225126826" lon="-123.179746920170174">
+  <time>2022-12-07T13:30:31.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265121225126826</ogr:latitude>
+    <ogr:longitude>-123.179746920170174</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265127442283926" lon="-123.179710278704349">
+  <time>2022-12-07T13:30:32.158Z</time>
+  <extensions>
+    <ogr:latitude>49.265127442283926</ogr:latitude>
+    <ogr:longitude>-123.179710278704349</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265126710712153" lon="-123.179678945061184">
+  <time>2022-12-07T13:30:33.158Z</time>
+  <extensions>
+    <ogr:latitude>49.265126710712153</ogr:latitude>
+    <ogr:longitude>-123.179678945061184</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265125649509812" lon="-123.179665074206511">
+  <time>2022-12-07T13:30:34.153Z</time>
+  <extensions>
+    <ogr:latitude>49.265125649509812</ogr:latitude>
+    <ogr:longitude>-123.179665074206511</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265129278722419" lon="-123.179637693697003">
+  <time>2022-12-07T13:30:35.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265129278722419</ogr:latitude>
+    <ogr:longitude>-123.179637693697003</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265121038989605" lon="-123.179607960938711">
+  <time>2022-12-07T13:30:36.150Z</time>
+  <extensions>
+    <ogr:latitude>49.265121038989605</ogr:latitude>
+    <ogr:longitude>-123.179607960938711</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265120395132968" lon="-123.179585265147509">
+  <time>2022-12-07T13:30:37.157Z</time>
+  <extensions>
+    <ogr:latitude>49.265120395132968</ogr:latitude>
+    <ogr:longitude>-123.179585265147509</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265124992260247" lon="-123.179549762646019">
+  <time>2022-12-07T13:30:38.151Z</time>
+  <extensions>
+    <ogr:latitude>49.265124992260247</ogr:latitude>
+    <ogr:longitude>-123.179549762646019</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265123497732809" lon="-123.179535812826288">
+  <time>2022-12-07T13:30:39.156Z</time>
+  <extensions>
+    <ogr:latitude>49.265123497732809</ogr:latitude>
+    <ogr:longitude>-123.179535812826288</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265128712610078" lon="-123.17950966559016">
+  <time>2022-12-07T13:30:40.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265128712610078</ogr:latitude>
+    <ogr:longitude>-123.17950966559016</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265125339942415" lon="-123.179479853072394">
+  <time>2022-12-07T13:30:41.154Z</time>
+  <extensions>
+    <ogr:latitude>49.265125339942415</ogr:latitude>
+    <ogr:longitude>-123.179479853072394</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.26512262190748" lon="-123.179462864281874">
+  <time>2022-12-07T13:30:42.151Z</time>
+  <extensions>
+    <ogr:latitude>49.26512262190748</ogr:latitude>
+    <ogr:longitude>-123.179462864281874</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265116332445842" lon="-123.179457928274232">
+  <time>2022-12-07T13:30:43.149Z</time>
+  <extensions>
+    <ogr:latitude>49.265116332445842</ogr:latitude>
+    <ogr:longitude>-123.179457928274232</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265105850213004" lon="-123.179469375331522">
+  <time>2022-12-07T13:30:44.156Z</time>
+  <extensions>
+    <ogr:latitude>49.265105850213004</ogr:latitude>
+    <ogr:longitude>-123.179469375331522</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265104285968114" lon="-123.179470008747046">
+  <time>2022-12-07T13:30:45.156Z</time>
+  <extensions>
+    <ogr:latitude>49.265104285968114</ogr:latitude>
+    <ogr:longitude>-123.179470008747046</ogr:longitude>
+  </extensions>
+</wpt>
+<wpt lat="49.265111984703289" lon="-123.179465261505911">
+  <time>2022-12-07T13:30:46.155Z</time>
+  <extensions>
+    <ogr:latitude>49.265111984703289</ogr:latitude>
+    <ogr:longitude>-123.179465261505911</ogr:longitude>
+  </extensions>
+</wpt>
+</gpx>
